@@ -1,0 +1,16 @@
+name: mesh_transport
+description: Abstract mesh transport + LAN mock for IAI-CHAT.
+version: 0.1.0
+repository: https://github.com/IAI-OpenSource/IAI-CHAT
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  meta: ^1.16.0
+  core_protocol:
+    path: ../core_protocol
+
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.25.6

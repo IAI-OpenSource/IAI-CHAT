@@ -1,0 +1,25 @@
+name: iai_chat
+description: IAI-CHAT — messagerie locale chiffrée (club IAI Open Source).
+publish_to: "none"
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  core_protocol:
+    path: ../../packages/core_protocol
+  crypto_engine:
+    path: ../../packages/crypto_engine
+  mesh_transport:
+    path: ../../packages/mesh_transport
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
