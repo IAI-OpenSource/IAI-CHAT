@@ -1,8 +1,8 @@
 # Contribuer à IAI-CHAT
 
-## Organisation (~20 personnes)
+## Organisation
 
-### Noyau (4–6 max) — review obligatoire
+### Noyau — review obligatoire
 
 | Module | Dossier | Responsabilité |
 |--------|---------|----------------|
